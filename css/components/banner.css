@@ -1,0 +1,20 @@
+.banner{
+	background-image: url(../../images/background.png), linear-gradient(45deg, rgb(254,248,244) 0%, rgb(225,242,253) 50%, rgb(254,248,244) 100%);
+	color: black;
+	padding: 50px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 80px;
+	color: #02286C;
+	width: bolder;
+	margin-top: 40px;
+}
+
+.banner h2 {
+	font-size: 25px;
+	color: #000000;
+	margin-bottom: 50px;
+}

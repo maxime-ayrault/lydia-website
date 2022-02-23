@@ -1,0 +1,141 @@
+.container {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 20px;
+}
+
+/* Pour toute la page */
+@media (max-width: 1700px){
+	.container{
+		width: 1450px;
+	}
+	#banner{
+		width: 840px;
+	}
+}
+
+@media (max-width: 1600px){
+	.container{
+		width: 1350px;
+	}
+	#banner{
+		width: 790px;
+	}
+}
+
+@media (max-width: 1500px){
+	.container{
+		width: 1250px;
+	}
+	#banner{
+		width: 740px;
+	}
+}
+
+@media (max-width: 1400px){
+	.container{
+		width: 1150px;
+	}
+	#banner{
+		width: 690px;
+	}
+}
+
+@media (max-width: 1300px){
+	.container{
+		width: 1050px;
+	}
+	#banner{
+		width: 640px;
+	}
+}
+
+@media (max-width: 1200px){
+	.container{
+		width: 950px;
+	}
+	#banner{
+		width: 590px;
+	}
+}
+
+@media (max-width: 1100px){
+	.container{
+		width: 850px;
+	}
+	#banner{
+		width: 540px;
+	}
+}
+
+@media (max-width: 1000px){
+	.container{
+		width: 750px;
+	}
+	#banner{
+		width: 490px;
+	}
+}
+
+@media (max-width: 900px){
+	.container{
+		width: 650px;
+	}
+	#banner{
+		width: 440px;
+	}
+}
+
+@media (max-width: 800px){
+	.container{
+		width: 550px;
+	}
+	#banner{
+		width: 390px;
+	}
+}
+
+@media (max-width: 700px){
+	.container{
+		width: 450px;
+	}
+	#banner{
+		width: 340px;
+	}
+}
+
+@media (max-width: 600px){
+	.container{
+		width: 350px;
+	}
+	#banner{
+		width: 290px;
+	}
+}
+
+@media (max-width: 500px){
+	.container{
+		width: 250px;
+	}
+	#banner{
+		width: 240px;
+	}
+}
+
+@media (max-width: 400px){
+	.container{
+		width: 150px;
+	}
+	#banner{
+		width: 190px;
+	}
+}
+
+@media (max-width: 300px){
+	.container{
+		width: 50px;
+	}
+	#banner{
+		width: 140px;
+	}
+}

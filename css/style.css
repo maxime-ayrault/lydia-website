@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Duru+Sans&family=Montserrat&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	margin: 0;
+}
+
+h1 {
+	font-family: 'Duru Sans', sans-serif;
+	font-weight: bolder;
+	color: #02286C;
+}
+
+h2, h3, p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
